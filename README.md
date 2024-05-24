@@ -1,5 +1,5 @@
 # GitHub Workshop
 
-- Naam: {Voornaam Achternaam}
-- Locatie: REA {Vestiging}
+- Naam: Mark Filippo
+- Locatie: REA Leiden
 - Datum: 24 mei 2024
